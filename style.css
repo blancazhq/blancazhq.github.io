@@ -126,23 +126,23 @@ nav{
 }
 
 
-@media (max-width: 700px){
+@media (max-width: 1000px){
   .front_page_wrapper{
-    height: 55vw;
+    height: 100vw;
     overflow: hidden;
   }
 }
 
 @media (max-width: 600px){
   .front_page_wrapper{
-    height: 45vw;
+    height: 100vw;
     overflow: hidden;
   }
 }
 
 @media (max-width: 480px){
   .front_page_wrapper{
-    height: 30vw;
+    height: 100vw;
     overflow: hidden;
   }
 }
