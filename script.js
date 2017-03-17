@@ -83,7 +83,7 @@ $(document).ready(function(){
     });
   }
 
-  setTimeout(letter_move, 500)
+  setTimeout(letter_move, 100)
 
   //project_div rotation
 
