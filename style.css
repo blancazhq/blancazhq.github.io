@@ -733,6 +733,11 @@ nav{
   text-decoration: none;
 }
 
+.project_subdiv1 a:hover{
+  color: #36839B;
+  font-size: 12px;
+}
+
 .project_subdiv2{
   position: absolute;
   bottom: 0;
@@ -753,6 +758,11 @@ nav{
   font-size: 11px;
   padding-top: 10%;
   text-decoration: none;
+}
+
+.project_subdiv2 a:hover{
+  color: #36839B;
+  font-size: 12px;
 }
 
 @media (max-width: 1157px){
