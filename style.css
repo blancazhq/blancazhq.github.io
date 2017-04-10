@@ -854,13 +854,13 @@ nav{
 
 .languagefacts_title{
   margin-top: 0%;
-  position: relative;
-  top: -6%;
+  position: relative !important;
+  top: -6% !important;
 }
 
 .languagefacts_text{
-  position: relative;
-  top: -6%;
+  position: relative !important;
+  top: -6% !important;
 }
 
 .pineapple_title{
