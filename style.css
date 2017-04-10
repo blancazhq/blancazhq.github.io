@@ -849,11 +849,18 @@ nav{
 }
 
 .languagefacts_logo{
-  margin-top: -1%;
+  margin-top: 0%;
 }
 
 .languagefacts_title{
-  margin-top: -6%;
+  margin-top: 0%;
+  position: relative;
+  top: -6%;
+}
+
+.languagefacts_text{
+  position: relative;
+  top: -6%;
 }
 
 .pineapple_title{
