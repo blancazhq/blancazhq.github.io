@@ -810,8 +810,6 @@ nav{
   }
 }
 
-
-
 @media (max-width: 528px){
   .project_div1, .project_div2, .project_div4{
     top: 0;
@@ -829,6 +827,10 @@ nav{
   margin-top: 10%;
 }
 
+.languagefacts_logo{
+  margin-left: 5%;
+  margin-top: 0%;
+}
 
 .project_title{
   padding-left: 5%;
@@ -848,19 +850,16 @@ nav{
   margin-top: 4%;
 }
 
-.languagefacts_logo{
-  margin-top: 0%;
-}
-
 .languagefacts_title{
   margin-top: 0%;
   position: relative !important;
   top: -6% !important;
-}
-
-.languagefacts_text{
-  position: relative !important;
-  top: -6% !important;
+  padding-left: 5%;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 20px;
+  color: #ededed;
+  margin-bottom: 0;
 }
 
 .pineapple_title{
@@ -875,6 +874,18 @@ nav{
   margin-top: 2%;
   margin-bottom: 0;
 }
+
+.languagefacts_text{
+  padding-left: 5%;
+  font-family: Arial;
+  font-size: 11px;
+  color: #ededed;
+  margin-top: 2%;
+  margin-bottom: 0;
+  position: relative !important;
+  top: -6% !important;
+}
+
 
 .get_connected_div{
   padding-top: 150px;
