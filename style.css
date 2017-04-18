@@ -829,6 +829,13 @@ nav{
   margin-top: 10%;
 }
 
+.language_logo{
+  margin-top: -2%;
+}
+
+.draw_logo{
+  margin-top: -2%;
+}
 
 .project_title{
   padding-left: 5%;
@@ -840,16 +847,18 @@ nav{
   margin-top: 10%;
 }
 
-.smash_the_boss_title{
-  margin-top: 4%;
+.smarta_title{
+  margin-top: 2%;
 }
 
 .tic_tac_toe_title{
   margin-top: 4%;
 }
 
-.language_logo{
-  margin-top: -2%;
+.draw_title{
+  margin-top: 0%;
+  position: relative;
+  top: -2%;
 }
 
 .languagefacts_title{
